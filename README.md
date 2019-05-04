@@ -32,7 +32,6 @@ module.exports = {
 };
 ```
 
-## App Info
 
 ### Author
 Temitayo</br>
